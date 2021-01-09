@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/27451316/importerror-no-module-named-tweepy
+https://stackoverflow.com/questions/16283799/how-to-read-a-csv-file-from-a-url-with-python
+https://stackoverflow.com/questions/35371043/use-python-requests-to-download-csv
+https://docs.google.com/presentation/d/1Peq5xknubzVYWhGftH39zPTnfke7qJ1q4-nFqCCOmvw/edit#slide=id.g80a2ee6475_0_0
+https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
+https://nfpdiscussions.udacity.com/t/json/42337/4
+https://nfpdiscussions.udacity.com/t/concering-reading-twitter-jason-txt-file/41138
+https://nfpdiscussions.udacity.com/t/problem-with-rating-numerator/42448
+https://nfpdiscussions.udacity.com/t/querying-twitter-and-reading-the-returned-file/40177
+https://stackoverflow.com/questions/59422448/with-file-openr-encoding-utf-8-as-f-attributeerror-str-object-has-no-a
